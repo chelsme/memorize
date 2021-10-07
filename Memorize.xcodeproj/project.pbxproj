@@ -13,7 +13,6 @@
 		CB6C517A270363AD00536260 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB6C5179270363AD00536260 /* Preview Assets.xcassets */; };
 		CB8BD7592703B87200142F8A /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8BD7582703B87200142F8A /* MemoryGame.swift */; };
 		CB8BD75B2703BAD200142F8A /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8BD75A2703BAD200142F8A /* EmojiMemoryGame.swift */; };
-		CBCA773A270E30A2008EA43D /* GameTheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBCA7739270E30A2008EA43D /* GameTheme.swift */; };
 		CBCA773C270E4D8C008EA43D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBCA773B270E4D8C008EA43D /* CardView.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +24,6 @@
 		CB6C5179270363AD00536260 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CB8BD7582703B87200142F8A /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		CB8BD75A2703BAD200142F8A /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
-		CBCA7739270E30A2008EA43D /* GameTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTheme.swift; sourceTree = "<group>"; };
 		CBCA773B270E4D8C008EA43D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -89,7 +87,6 @@
 		CBCA773E270E4E44008EA43D /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				CBCA7739270E30A2008EA43D /* GameTheme.swift */,
 				CB8BD7582703B87200142F8A /* MemoryGame.swift */,
 			);
 			path = Models;
@@ -175,7 +172,6 @@
 			files = (
 				CB8BD7592703B87200142F8A /* MemoryGame.swift in Sources */,
 				CB6C5175270363AB00536260 /* EmojiGameView.swift in Sources */,
-				CBCA773A270E30A2008EA43D /* GameTheme.swift in Sources */,
 				CB6C5173270363AB00536260 /* Memorize App.swift in Sources */,
 				CBCA773C270E4D8C008EA43D /* CardView.swift in Sources */,
 				CB8BD75B2703BAD200142F8A /* EmojiMemoryGame.swift in Sources */,
